@@ -15,3 +15,8 @@ Features :
 Tech : Django, HTML, CSS, SQLite, Machine Learning & NLP Toolkits, Git
 
 ```
+
+```text
+Deployment and Installation in Local Machines:
+will be updated.
+```
