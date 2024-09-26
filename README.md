@@ -1,8 +1,8 @@
 # ATS Like CV Matching
 
 ```text
-ATS Like CV matching is a django web app that can help recruiters to filter resumes and it will help the
-job candidates to modify thier resumes.
+ATS Like CV matching is a django web app that can help recruiters to filter resumes
+and it will help the job candidates to modify thier resumes.
 ```
 
 ```text
